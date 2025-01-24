@@ -3,6 +3,7 @@ Integrated RFID and Facial Recognition System for Efficient Attendance System
 
 The project scope for an RFID and facial recognition-based attendance system includes implementing reliable, secure, and user-friendly technology to record and manage attendance, integrating with existing HR systems, and ensuring scalability and data privacy. Potential obstacles involve technical challenges like ensuring facial recognition accuracy, managing large data volumes, privacy concerns, user acceptance, and maintaining hardware. The goals are to achieve high accuracy, efficiency, security, user satisfaction, and regulatory compliance. Compared to traditional manual systems, card-based systems, and biometric-only systems, this hybrid approach offers enhanced accuracy and security, albeit with higher complexity and cost.
 
+
 **ER Diagram**
 ![image](https://github.com/user-attachments/assets/3bd47344-bd79-43ce-b7b8-13c3ad328d4a)
 
@@ -31,18 +32,26 @@ The project scope for an RFID and facial recognition-based attendance system inc
 **WebSite Output**
 
 ![image](https://github.com/user-attachments/assets/b1a8c125-bc60-41e3-b8a4-014e8e7525cc)
+
 Student Login Dashboard
 
+
 ![image](https://github.com/user-attachments/assets/58689ce2-e7d5-49ea-84aa-6a633e576a78)
+
 Student Dashboard
 
 ![image](https://github.com/user-attachments/assets/16f2a93f-950a-41e8-af88-e82406e1d3de)
+
 ![image](https://github.com/user-attachments/assets/88d81782-0edb-40bb-87d8-797b7dacd666)
+
 Attendance Record For Student
 
 ![image](https://github.com/user-attachments/assets/bb017a87-82ea-4517-b4b7-3624a80cdd97)
+
 Activity Dashboard For Teacher
 
 ![image](https://github.com/user-attachments/assets/8d5bb9f5-30cf-45ea-ad8e-52feb41c2c1b)
+
 ![image](https://github.com/user-attachments/assets/27434764-320b-4dec-abe1-30cb1c3c6fc1)
+
 Teacher Attendance Dashboard
