@@ -50,8 +50,8 @@ Attendance Record For Student
 
 Activity Dashboard For Teacher
 
-![image](https://github.com/user-attachments/assets/8d5bb9f5-30cf-45ea-ad8e-52feb41c2c1b)
-
 ![image](https://github.com/user-attachments/assets/27434764-320b-4dec-abe1-30cb1c3c6fc1)
+
+![image](https://github.com/user-attachments/assets/8d5bb9f5-30cf-45ea-ad8e-52feb41c2c1b)
 
 Teacher Attendance Dashboard
