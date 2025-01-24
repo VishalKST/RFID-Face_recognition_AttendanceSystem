@@ -7,22 +7,29 @@ The project scope for an RFID and facial recognition-based attendance system inc
 ![image](https://github.com/user-attachments/assets/3bd47344-bd79-43ce-b7b8-13c3ad328d4a)
 
 **Flowchart of the Operation**
+
 ![image](https://github.com/user-attachments/assets/a78dacea-e4fa-4dd5-b3c7-7cc2cda0592a)
 ![image](https://github.com/user-attachments/assets/585821cc-db93-4c0c-b166-338b05231b36)
 
 **Class Diagram**
+
 ![image](https://github.com/user-attachments/assets/dd8b73b9-1ae1-4885-9a96-bfcd8adeab22)
 
 **Hardware Setup**
+
 ![image](https://github.com/user-attachments/assets/e873872e-30ad-4911-be15-3c0281abd0d8)
 
+
 **SQL DataBase**
+
 ![image](https://github.com/user-attachments/assets/2a0bcd3b-4c83-4def-9529-96ff4f893902)
 
 **Code Output**
+
 ![image](https://github.com/user-attachments/assets/82c67f0a-e780-47fb-abfe-a07875c28cac)
 
 **WebSite Output**
+
 ![image](https://github.com/user-attachments/assets/b1a8c125-bc60-41e3-b8a4-014e8e7525cc)
 Student Login Dashboard
 
